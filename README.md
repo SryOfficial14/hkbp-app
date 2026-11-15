@@ -4,6 +4,9 @@ Aplikasi web berbasis PHP (Custom MVC) dan MySQL untuk mengelola administrasi je
 
 🌐 **Live Demo:** [https://hkbpimmanuelkemang.web.id](https://hkbpimmanuelkemang.web.id)
 
+  test
+  username : admin
+  password : 123
 ---
 
 ## ✨ Fitur Utama
